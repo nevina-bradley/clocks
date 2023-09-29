@@ -1,0 +1,9 @@
+.Time {
+    height: 500px;
+    width: 800px;
+    margin-top: 35%;
+    position: absolute;
+    font-family: courier, monospace;
+    color: purple;
+    font-size: 110px;
+}
